@@ -1,3 +1,5 @@
+# This fork is specifically designed to work with the UNOWHY Y13 laptop.
+
 ###### *<div align="right"><sub>// design by t2</sub></div>*
 <div align = center>
     <a href="https://discord.gg/AYbJ9MJez7">
