@@ -77,3 +77,7 @@ pokemon-colorscripts-git|zsh                           # display pokemon sprites
 
 # --------------------------------------------------- // HyDE
 hyde-cli-git                                           # cli tool to manage hyde
+
+# --------------------------------------------------- // packages for unowhy
+xdg-desktop-portal-gtk                                 # screenshare fix
+intel-ucode                                            # intel cpu driver
